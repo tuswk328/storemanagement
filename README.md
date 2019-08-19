@@ -17,13 +17,6 @@ eladmin基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前�
 
 **账号密码** ```admin/123456```(默认密码都是123456)
 
-#### 项目源码
-
-|     |   后端源码  |   前端源码  |
-|---  |--- | --- |
-|  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-qd   |
-|  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-qt   |
-
 ####  系统功能
 - 用户管理：提供用户的相关配置，新增用户后，默认密码为123456
 - 角色管理：对权限与菜单进行分配，可根据部门设置角色的数据权限
